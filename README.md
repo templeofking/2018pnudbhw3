@@ -1,6 +1,6 @@
 # 2018pnudbhw3
-Database Homework3
-
+This is a repository for Database Homework3.
+2018.Fall @ PNU
 
 Create “SName_Sno.txt” file at your local repository
 Example
